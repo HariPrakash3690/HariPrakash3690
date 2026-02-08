@@ -1,21 +1,9 @@
 <h1 align="center">Hi 👋, I'm HariPrakash</h1>
 <h3 align="center">Currently working as a Test Engineer in TechMahindra </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hariprakash3690&label=Profile%20views&color=0e75b6&style=flat" alt="hariprakash3690" /> </p>
-
-- 🔭 I’m currently working on [AI Powered Nutrition Analyzer for Fitness Enthusiasts](https://github.com/IBM-EPBL/IBM-Project-5546-1658806678)
-
-- 🌱 I’m currently learning **SQL,Java,HTML**
-
-- 👯 I’m looking to collaborate on **Interesting Projects**
-
-- 📫 How to reach me **hariprakashpandi61543@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KgasH6JzAf56fPhgC42vedPFDvWtAhQe/view?usp=share_link](https://drive.google.com/file/d/1KgasH6JzAf56fPhgC42vedPFDvWtAhQe/view?usp=share_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/@hariprakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@hariprakash" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/hari-prakash-7173a9229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@hariprakash" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
