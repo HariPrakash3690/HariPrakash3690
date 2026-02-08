@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HariPrakash</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">Currently working as a Test Engineer in TechMahindra </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariprakash3690&label=Profile%20views&color=0e75b6&style=flat" alt="hariprakash3690" /> </p>
 
